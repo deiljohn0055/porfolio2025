@@ -1007,11 +1007,11 @@
         margin: 0 auto;
     }
     #me {
-        opacity: 0;
+        display: none;
         
     }
     #neon {
-        opacity: 0;
+        display: none;
     }
     .pro {
     height: auto;
