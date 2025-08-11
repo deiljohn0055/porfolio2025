@@ -1016,11 +1016,11 @@ background: radial-gradient(circle, rgba(121,33,235,1) 73%, rgba(251,63,63,1) 10
         margin: 0 auto;
     }
     #me {
-        opacity: 0;
+        display: none;
         
     }
     #neon {
-        opacity: 0;
+        display: none;
     }
     .pro {
     height: auto;
