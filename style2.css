@@ -679,7 +679,7 @@ background: radial-gradient(circle, rgba(121,33,235,1) 73%, rgba(251,63,63,1) 10
 
 .por-left{
     /* background-color: #13a100; */
-    height: 100vh;
+    height: 70vh;
     width: 50%;
     display: flex;
     position: relative;
