@@ -1437,6 +1437,10 @@
         font-size: 15px;
     
     }
-
+#Projectbtn, #aboutbtn, #contactbtn, #portfoliobtn {
+        height: 80px;
+        width: 80px;
+        font-size: 1rem;
+    }
     
 }
